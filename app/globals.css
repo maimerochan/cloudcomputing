@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.ml-24 {
+  margin-left: 6rem; /* または必要なサイズに */
+}
+.mr-24 {
+  margin-right: 6rem; /* または必要なサイズに */
+}
+
